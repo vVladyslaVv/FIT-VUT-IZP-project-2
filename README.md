@@ -1,3 +1,4 @@
+# Remeber About Plagiarism !!!
 # FIT-VUT-IZP-project-2
 
 FIT VUT v Brne IZP project 2 (cluster)
