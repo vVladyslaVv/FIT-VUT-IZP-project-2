@@ -1,7 +1,7 @@
 # FIT-VUT-IZP-project-2
 FIT VUT IZP project 2
 
-Popis projektu
+# Popis projektu
 
 Vytvořte program, který implementuje jednoduchou shlukovou analýzu, metodu nejbližšího souseda (angl. single linkage).
 
@@ -11,6 +11,6 @@ Shlukovou analýzu provádějte na dvourozměrných objektech. Každý objekt je
 
 Při implementaci můžete pro vizualizaci a porozumění objektů používat tuto jednoduchou aplikaci, která vykresluje a obarvuje vámi vygenerované shluky.
 
-Metoda nejbližšího souseda
+# Metoda nejbližšího souseda
 
 Metoda nejbližšího souseda vybírá ke spojení vždy dva shluky, které mají k sobě nejblíže. Vzdálenost dvou shluků je rovna nejmenší vzdálenosti libovolných dvou objektů z obou shluků. 
