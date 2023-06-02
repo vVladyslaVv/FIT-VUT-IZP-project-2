@@ -1,5 +1,8 @@
 # FIT-VUT-IZP-project-2
-FIT VUT IZP project 2
+
+FIT VUT v Brne IZP project 2 (cluster)
+
+Projekt 2 - Práce s datovými strukturami
 
 # Popis projektu
 
